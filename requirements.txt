@@ -1,1 +1,3 @@
-Copy the contents of the environment.yaml file from SiS here
+# requirements.txt
+snowflake-snowpark-python
+streamlit
